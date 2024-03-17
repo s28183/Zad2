@@ -17,6 +17,7 @@ class Program
             counter = counter + tab[i];
         }
         Console.WriteLine("Pierwsza zmiana");
+        Console.WriteLine("Druga zmiana");
         return counter / tab.Length;
     }
 }
