@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more informatio
+
+using System.Security.AccessControl;
+
 class Program
 {
     public static void Main(string[] args)
@@ -13,7 +16,7 @@ class Program
         {
             counter = counter + tab[i];
         }
-
+        Console.WriteLine("Pierwsza zmiana");
         return counter / tab.Length;
     }
 }

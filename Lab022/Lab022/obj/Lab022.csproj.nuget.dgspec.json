@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s28183\\Desktop\\Lab02\\Zad2\\Lab022\\Lab022\\Lab022.csproj": {}
+    "C:\\Users\\jaros\\Documents\\GitHub\\Zad2\\Lab022\\Lab022\\Lab022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s28183\\Desktop\\Lab02\\Zad2\\Lab022\\Lab022\\Lab022.csproj": {
+    "C:\\Users\\jaros\\Documents\\GitHub\\Zad2\\Lab022\\Lab022\\Lab022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s28183\\Desktop\\Lab02\\Zad2\\Lab022\\Lab022\\Lab022.csproj",
+        "projectUniqueName": "C:\\Users\\jaros\\Documents\\GitHub\\Zad2\\Lab022\\Lab022\\Lab022.csproj",
         "projectName": "Lab022",
-        "projectPath": "C:\\Users\\s28183\\Desktop\\Lab02\\Zad2\\Lab022\\Lab022\\Lab022.csproj",
-        "packagesPath": "C:\\Users\\s28183\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s28183\\Desktop\\Lab02\\Zad2\\Lab022\\Lab022\\obj\\",
+        "projectPath": "C:\\Users\\jaros\\Documents\\GitHub\\Zad2\\Lab022\\Lab022\\Lab022.csproj",
+        "packagesPath": "C:\\Users\\jaros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaros\\Documents\\GitHub\\Zad2\\Lab022\\Lab022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s28183\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jaros\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\jaros\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
