@@ -18,6 +18,7 @@ class Program
         }
         Console.WriteLine("Pierwsza zmiana");
         Console.WriteLine("Druga zmiana");
+        Console.WriteLine("Trzecia zmiana");
         return counter / tab.Length;
     }
 }
